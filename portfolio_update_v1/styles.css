@@ -106,7 +106,8 @@ header .profile-image:hover {
   transition: all .5s;
 }
 
-.main-img {
+.main-img,
+.blog-img {
   -webkit-box-shadow: 0 8px 6px -6px black;
   -moz-box-shadow: 0 8px 6px -6px black;
   box-shadow: 0 8px 6px -6px black;
